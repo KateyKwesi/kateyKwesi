@@ -63,22 +63,35 @@
 
 <div align="center">
 
-<!-- Stats card -->
-<a href="https://github.com/Kateykwesi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kateykwesi&show_icons=true&count_private=true&title_color=ff3068&text_color=ffffff&icon_color=ff3068&bg_color=0d1117&hide_border=true" height="170" />
-</a>
+  <!-- Stats card -->
+  <a href="https://github.com/Kateykwesi">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Kateykwesi&show_icons=true&count_private=true&title_color=ff3068&text_color=ffffff&icon_color=ff3068&bg_color=0d1117&hide_border=true"
+      alt="GitHub stats"
+      height="170"
+    />
+  </a>
 
-<!-- Streak card -->
-<a href="https://github.com/Kateykwesi">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Kateykwesi&stroke=ffffff&background=0d1117&ring=ff3068&fire=ff3068&currStreakNum=ffffff&currStreakLabel=ff3068&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="170" />
-</a>
+  <!-- Streak card (fixed: HTTPS + Demolab) -->
+  <a href="https://github.com/Kateykwesi">
+    <img
+      src="https://streak-stats.demolab.com?user=Kateykwesi&stroke=ffffff&background=0d1117&ring=ff3068&fire=ff3068&currStreakNum=ffffff&currStreakLabel=ff3068&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+      alt="GitHub contribution streak"
+      height="170"
+    />
+  </a>
 
-<!-- Top Languages card -->
-<a href="https://github.com/Kateykwesi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kateykwesi&langs_count=6&title_color=ff3068&text_color=ffffff&icon_color=ff3068&bg_color=0d1117&hide_border=true&layout=compact" height="170" />
-</a>
+  <!-- Top Languages card -->
+  <a href="https://github.com/Kateykwesi">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kateykwesi&langs_count=6&title_color=ff3068&text_color=ffffff&icon_color=ff3068&bg_color=0d1117&hide_border=true&layout=compact"
+      alt="Top languages"
+      height="170"
+    />
+  </a>
 
 </div>
+
 
 ---
 
