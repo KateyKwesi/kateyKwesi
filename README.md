@@ -8,11 +8,10 @@
 </h1>
 
 
-  <p><strong>Frontend Developer • Lifelong Learner • Problem Solver</strong></p>
+  <p><strong>Frontend Developer • Builder • Debugger</strong></p>
 
   <p>
-    I enjoy building websites that look good, feel smooth to use, and actually help people in their everyday lives.  
-    Technology inspires me because it can turn small ideas into tools that make a big difference.
+   Frontend developer specializing in React, TypeScript, and modern UI frameworks. I love building clean, user-friendly websites and tools that simplify everyday tasks. Passionate about turning small ideas into impactful solutions.
   </p>
 
   <!-- Badges (radical theme) -->
