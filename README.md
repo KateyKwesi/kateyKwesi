@@ -33,13 +33,13 @@
   <summary>🚀 About Me</summary>
   <br/>
 
-  I started learning software engineering because I believe technology should make life easier and better.  
-  I’m driven by how people use simple tools to solve everyday problems and create opportunities.  
+ I chose software engineering because I believe technology should make life easier and create opportunities.
+ I’m inspired by how simple tools can solve everyday problems.
 
-  - 🎯 **Mission:** Build products that improve lives at scale with clean design and clear purpose.  
-  - 💡 **I enjoy:** taking messy problems and turning them into working, useful features.  
-  - 🧭 **Current focus:** Frontend engineering (React + TypeScript) and sharpening my foundations.  
-  - 🤝 **Open to:** internships, junior frontend roles, and meaningful open-source collaborations.  
+  - 🎯 **Mission:** Build products that improve lives at scale with clean design and clear purpose. 
+  - 💡 **I enjoy:** turning messy problems into useful, working features.
+  - 🧭 **Current focus:**Frontend engineering (React + TypeScript) while sharpening my foundations. 
+  - 🤝 **Open to:** internships, junior frontend roles, and meaningful open-source collaborations.
 </details>
 
 ---
