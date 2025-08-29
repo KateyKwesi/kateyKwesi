@@ -38,7 +38,7 @@
 
   - 🎯 **Mission:** Build products that improve lives at scale with clean design and clear purpose. 
   - 💡 **I enjoy:** turning messy problems into useful, working features.
-  - 🧭 **Current focus:**Frontend engineering (React + TypeScript) while sharpening my foundations. 
+  - 🧭 **Current focus:** Frontend engineering (React + TypeScript) while sharpening my foundations. 
   - 🤝 **Open to:** internships, junior frontend roles, and meaningful open-source collaborations.
 </details>
 
