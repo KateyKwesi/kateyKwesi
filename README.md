@@ -39,8 +39,11 @@ I combine design, storytelling, and code — creating products that feel clear, 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
-### 🧰 Tech Toolbox
-<div align="left">
+<h2 align="center" style="color:#ff3068; font-weight:800; font-size:30px; letter-spacing:1px;">
+🧰 TECH TOOLBOX
+</h2>
+<div align="center">
+
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-ff3068?logo=html5&logoColor=white&labelColor=0d1117"> 
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-ff3068?logo=css3&logoColor=white&labelColor=0d1117"> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ff3068?logo=javascript&logoColor=white&labelColor=0d1117">
@@ -50,7 +53,9 @@ I combine design, storytelling, and code — creating products that feel clear, 
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-ff3068?logo=tailwindcss&logoColor=white&labelColor=0d1117">
 <img alt="Git" src="https://img.shields.io/badge/Git-ff3068?logo=git&logoColor=white&labelColor=0d1117">
 <img alt="Figma" src="https://img.shields.io/badge/Figma-ff3068?logo=figma&logoColor=white&labelColor=0d1117">
+
 </div>
+
 
 ---
 
