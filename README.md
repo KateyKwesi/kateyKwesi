@@ -4,6 +4,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="wave"/>Hi, I'm 
   <a href="https://github.com/Kateykwesi" target="_blank">
     <img src="https://img.shields.io/badge/Katey%20Kwesi-ff3068?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Katey Kwesi"/>
+      
   </a>
 </h1>
 
@@ -15,6 +16,7 @@
   </p>
 
   <!-- Badges (radical theme) -->
+   <img src="https://komarev.com/ghpvc/?username=Kateykwesi&label=Profile%20Views&color=ff3068&style=flat&labelColor=0d1117" alt="Profile views"/>
   <a href="https://github.com/Kateykwesi?tab=followers">
     <img src="https://img.shields.io/github/followers/Kateykwesi?style=social&label=Follow" alt="GitHub Followers">
   </a>
@@ -25,6 +27,10 @@
     <img src="https://img.shields.io/badge/Email-ff3068?style=flat&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
   </a>
   <img src="https://img.shields.io/badge/Location-Accra%2C%20Ghana-ff3068?style=flat&labelColor=0d1117" alt="Location">
+
+ 
+
+
 </div>
 
 ---
