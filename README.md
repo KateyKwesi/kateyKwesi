@@ -71,18 +71,20 @@ FEATURED PROJECTS
 <tr>
 <td width="50%" valign="top" style="padding:28px; text-align:center; background-color:#111418; border-radius:14px;">
 
-### **Markdown To HTML**
-[![GitHub](https://img.shields.io/badge/Repo-Markdown_To_HTML-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Kateykwesi/Markdown_To_HTML)
+### **Movie Explore App**
+[![GitHub](https://img.shields.io/badge/Repo-Movie_App-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://movie-app-katey-kwesi.vercel.app/)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kateykwesi&repo=Markdown_To_HTML&theme=radical&hide_border=true&bg_color=111418&title_color=ff3068&text_color=ffffff" width="100%" alt="Markdown To HTML"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KateyKwesi&repo=movie-app&theme=radical&hide_border=true&bg_color=111418&title_color=ff3068&text_color=ffffff" width="100%" alt="Movie App"/>
 
 <ul align="left" style="line-height:1.7; margin-top:12px;">
-  <li>Converts Markdown to HTML with live preview</li>
-  <li>Responsive layout built with HTML, CSS & JavaScript</li>
+  <li>Modern movie browsing app built with React and Appwrite</li>
+  <li>Fetches real-time movie data from TMDB API</li>
+  <li>Responsive UI with search and detail view</li>
 </ul>
 
 </td>
 <td width="50%" valign="top" style="padding:28px; text-align:center; background-color:#111418; border-radius:14px;">
+
 
 ### **Dynamic To-Do List**
 [![GitHub](https://img.shields.io/badge/Repo-dynamic--to--do--list--js-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Kateykwesi/dynamic-to-do-list-js)
