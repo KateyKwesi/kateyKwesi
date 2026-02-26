@@ -56,7 +56,6 @@ I combine design, storytelling, and code — creating products that feel clear, 
 
 </div>
 
-
 ---
 
 <h2 align="center" style="color:#ff3068; font-weight:800; font-size:30px; letter-spacing:1px;">
@@ -69,27 +68,29 @@ FEATURED PROJECTS
 
 <table align="center" style="width:98%; border-collapse:separate; border-spacing:28px; background-color:#0d1117;">
 <tr>
+
 <td width="50%" valign="top" style="padding:28px; text-align:center; background-color:#111418; border-radius:14px;">
 
-### **Movie Explore App**
-[![GitHub](https://img.shields.io/badge/Repo-Movie_App-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://movie-app-katey-kwesi.vercel.app/)
+### **Recipe Generator**
+[![Live Demo](https://img.shields.io/badge/Demo-Recipe_Generator-22c55e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://recipe-generator-katey.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repo-Recipe_Generator-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/KateyKwesi/Recipe-Generator)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KateyKwesi&repo=movie-app&theme=radical&hide_border=true&bg_color=111418&title_color=ff3068&text_color=ffffff" width="100%" alt="Movie App"/>
+<img src="https://opengraph.githubassets.com/1/KateyKwesi/Recipe-Generator" width="100%" alt="Recipe Generator"/>
 
 <ul align="left" style="line-height:1.7; margin-top:12px;">
-  <li>Modern movie browsing app built with React and Appwrite</li>
-  <li>Fetches real-time movie data from TMDB API</li>
-  <li>Responsive UI with search and detail view</li>
+  <li>AI-powered app that generates complete recipes from user-provided ingredients</li>
+  <li>Structured Markdown rendering with custom Tailwind styling</li>
+  <li>Built with React, TypeScript, Tailwind CSS, and OpenRouter</li>
 </ul>
 
 </td>
-<td width="50%" valign="top" style="padding:28px; text-align:center; background-color:#111418; border-radius:14px;">
 
+<td width="50%" valign="top" style="padding:28px; text-align:center; background-color:#111418; border-radius:14px;">
 
 ### **Dynamic To-Do List**
 [![GitHub](https://img.shields.io/badge/Repo-dynamic--to--do--list--js-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Kateykwesi/dynamic-to-do-list-js)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kateykwesi&repo=dynamic-to-do-list-js&theme=radical&hide_border=true&bg_color=111418&title_color=ff3068&text_color=ffffff" width="100%" alt="Dynamic To-Do List"/>
+<img src="https://opengraph.githubassets.com/1/Kateykwesi/dynamic-to-do-list-js" width="100%" alt="Dynamic To-Do List"/>
 
 <ul align="left" style="line-height:1.7; margin-top:12px;">
   <li>Add, edit, and delete daily tasks easily</li>
@@ -105,7 +106,7 @@ FEATURED PROJECTS
 ### **Form Creation & Validation**
 [![GitHub](https://img.shields.io/badge/Repo-Form--Creation--Validation-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Kateykwesi/Form-Creation-Validation)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kateykwesi&repo=Form-Creation-Validation&theme=radical&hide_border=true&bg_color=111418&title_color=ff3068&text_color=ffffff" width="100%" alt="Form Creation & Validation"/>
+<img src="https://opengraph.githubassets.com/1/Kateykwesi/Form-Creation-Validation" width="100%" alt="Form Creation & Validation"/>
 
 <ul align="left" style="line-height:1.7; margin-top:12px;">
   <li>Validates inputs dynamically using regex</li>
@@ -113,12 +114,13 @@ FEATURED PROJECTS
 </ul>
 
 </td>
+
 <td width="50%" valign="top" style="padding:28px; text-align:center; background-color:#111418; border-radius:14px;">
 
 ### **Football Team Card**
 [![GitHub](https://img.shields.io/badge/Repo-footballteamcard-ff3068?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Kateykwesi/footballteamcard)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kateykwesi&repo=footballteamcard&theme=radical&hide_border=true&bg_color=111418&title_color=ff3068&text_color=ffffff" width="100%" alt="Football Team Card"/>
+<img src="https://opengraph.githubassets.com/1/Kateykwesi/footballteamcard" width="100%" alt="Football Team Card"/>
 
 <ul align="left" style="line-height:1.7; margin-top:12px;">
   <li>Displays player profiles in a clean grid layout</li>
